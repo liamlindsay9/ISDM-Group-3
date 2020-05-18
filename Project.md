@@ -1,5 +1,5 @@
-##### ISDM Group 2 Project
-# Call Management Centre System
+# ISDM Group 2 Project
+## Call Management Centre System
 
 <img src="Empathy Map_RM.png" width="45%">
 
