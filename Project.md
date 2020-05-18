@@ -9,7 +9,7 @@
 
 - **In-bount Customer**
 
-<img src="Empathy Map_IB Customer.png" width="45%">
+<img src="Empathy Map_IB Customer.png" width="60%">
 
 - **Out-bount Customer**
 
