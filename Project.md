@@ -4,7 +4,7 @@
 ### Empany Maps
 - **Relationship Manager**
 
-<img src="Empathy Map_RM.png" width="45%">
+<img src="Empathy Map_RM.png" width="60%">
 
 
 - **In-bount Customer**
@@ -13,7 +13,7 @@
 
 - **Out-bount Customer**
 
-<img src="Empathy Map_OB Customer.png" width="45%">
+<img src="Empathy Map_OB Customer.png" width="60%">
 
 ### POV Statements 
 
