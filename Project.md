@@ -6,6 +6,11 @@
 
 <img src="Empathy Map_RM.png" width="45%">
 
+
+**- In-bount Customer**
+
+<img src="Empathy Map_IB Customer.png" width="45%">
+
 **- Out-bount Customer**
 
 <img src="Empathy Map_OB Customer.png" width="45%">
