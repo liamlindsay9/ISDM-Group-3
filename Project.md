@@ -2,7 +2,11 @@
 ## Call Management Centre System
 
 ### Empany Maps
+**- Relationship Manager**
 <img src="Empathy Map_RM.png" width="45%">
+
+**- Out-bount Customer**
+<img src="Empathy Map_OB Customer.png" width="45%">
 
 ### POV Statements 
 
