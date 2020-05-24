@@ -1,7 +1,9 @@
 # ISDM Group 2 Project
 ## Call Management Centre System
 
-### Empany Maps
+### Defining the Problem - Design Thinking Methodologies
+#### Empathy Maps
+- We used Empathy Maps on order to explore and understand how our stakeholders 
 - **Relationship Manager**
 
 <img src="Empathy Map_RM.png" width="60%">
