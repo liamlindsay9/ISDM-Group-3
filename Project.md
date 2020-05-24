@@ -11,7 +11,7 @@
 
 <img src="Empathy Map_IB Customer.png" width="60%">
 
-- **Out-bount Customer**
+- **Out-Bound Customer**
 
 <img src="Empathy Map_OB Customer.png" width="60%">
 
