@@ -1,8 +1,8 @@
-# ISDM Group 2 Project - Call Management Centre System
+# ISDM Group 2 Project - Call Management Centre(CMC) System
 
 ## Defining the Problem - Design Thinking Methodologies
 ### Empathy Maps
-- We used Empathy Maps on order to explore and understand how our stakeholders 
+- We used Empathy Maps as part of our Design Thinking Process on order to explore and understand how our stakeholders may think feel towards a new system. This allowed us to understand what boundries and factors we will have to consider on a personal level when designing the CMC system.
 - **Relationship Manager**
 
 <img src="Empathy Map_RM.png" width="60%">
