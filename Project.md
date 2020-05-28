@@ -17,6 +17,7 @@
 <img src="Empathy Map_OB Customer.png" width="60%">
 
 ### POV Statements 
+- We used POV statements to capture and better understand what it is that each stakeholder needed to gain from the system and what problem the system would solve for them respectively.
 
 **In-bound Customers**
 - As an inbound customer i want a comprehensive call exchange system which is fast so that i can make informed decisions and have quicker service. 
