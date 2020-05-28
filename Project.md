@@ -31,3 +31,8 @@
 **Reflection during Ideation**
 While investigating and understanding the system, there were several key features that we felt were missing in order for the system to function.
 - One of the first assumptions we made about the system is that In-bound customers and Out-bound customers would have needed to already have provided some information to the company in order to be matched with the best fit Relationship Manager(RM). For Out-Bound customers, the system gets the users information from a database. We assumed that this mean the customer had already purchased a product in the past or had given an expession of interest including personal information in some regard. For In-Bound customers, we assumed that customers would need to provide some information if it is their first time calling in order to be given a Loyalty Score and be matched with the approapriate RM.
+
+## Workproduct, Models and Descriptions 
+### Class Diagram
+- The Class Diagram aims to model all the classes present within the system and how they will interact with other classes. It also models what functions/action the classes can perform aswell as what data they hold. The Out-Bound Call Organiser Class acts as an associative class, connecting the many RM's to the Outbound customers. The In-Bound Call Routing and Distributing Class also manages incoming calls from customers and linking the RM's to Inbound customers as an associative class.
+<img src="Class Diagram.png" width="60%">
