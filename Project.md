@@ -4,17 +4,19 @@
 ### Empathy Maps
 - We used Empathy Maps as part of our Design Thinking Process on order to explore and understand how our stakeholders may think feel towards a new system. This allowed us to understand what boundries and factors we will have to consider on a personal level when designing the CMC system.
 - **Relationship Manager**
-
-<img src="Empathy Map_RM.png" width="60%">
-
+<p align="center">
+  <img src="Empathy Map_RM.png" width="60%">
+</p>
 
 - **In-bount Customer**
-
-<img src="Empathy Map_IB Customer.png" width="60%">
+<p align="center">
+  <img src="Empathy Map_IB Customer.png" width="60%">
+</p>
 
 - **Out-Bound Customer**
-
-<img src="Empathy Map_OB Customer.png" width="60%">
+<p align="center">
+  <img src="Empathy Map_OB Customer.png" width="60%">
+</p>
 
 ### POV Statements 
 - We used POV statements to capture and better understand what it is that each stakeholder needed to gain from the system and what problem the system would solve for them respectively.
@@ -35,4 +37,6 @@ While investigating and understanding the system, there were several key feature
 ## Workproduct, Models and Descriptions 
 ### Class Diagram
 - The Class Diagram aims to model all the classes present within the system and how they will interact with other classes. It also models what functions/action the classes can perform aswell as what data they hold. The Out-Bound Call Organiser Class acts as an associative class, connecting the many RM's to the Outbound customers. The In-Bound Call Routing and Distributing Class also manages incoming calls from customers and linking the RM's to Inbound customers as an associative class.
-<img src="Class Diagram.png" width="60%">
+<p align="center">
+  <img src="Class Diagram.png" width="60%">
+</p>
