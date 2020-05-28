@@ -27,3 +27,7 @@
 
 **Out-bount Customer**
 - As a potentially interested buyer, I want incoming calls about products to be quick and effective. I don’t want to be stuck on the phone for long periods of time for a product I’m not interested in.
+
+**Reflection during Ideation**
+While investigating and understanding the system, there were several key features that we felt were missing in order for the system to function.
+- One of the first assumptions we made about the system is that In-bound customers and Out-bound customers would have needed to already have provided some information to the company in order to be matched with the best fit Relationship Manager(RM). For Out-Bound customers, the system gets the users information from a database. We assumed that this mean the customer had already purchased a product in the past or had given an expession of interest including personal information in some regard. For In-Bound customers, we assumed that customers would need to provide some information if it is their first time calling in order to be given a Loyalty Score and be matched with the approapriate RM.
