@@ -44,3 +44,13 @@ While investigating and understanding the system, there were several key feature
 <p align="center">
   <img src="Class Diagram.png" width="60%">
 </p>
+### Use Case Diagram
+- The Use Case Diagram is the primary form of system requirement for a new software program. A use case diagram is usually simple and does not show the detail of the use cases. It summarizes some of the relationship between Customer, Relationship managers and systems. 
+
+<p align="center">
+  <img src="Inbound call.png" width="60%">
+</p>
+
+<p align="center">
+  <img src="Outbound call (1).png" width="60%">
+</p>
