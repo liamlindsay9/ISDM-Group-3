@@ -36,6 +36,11 @@
 - How might we improve call efficiency to decrease the time customers spend on a call.
 
 ### Implementation of Agile Methodology; Scrum
+During the completion of the project, the team needed to create and model a solution quickly so implementing an Agile methodology was cruical. Our team used the Scrum technique in order to organise ourselves and create deliverables in an interative manner. Scrum allowed us to be flexible and adjust for any work that hadn't been completed and plan out the how and when sections of the work would be completed.
+- **Scrum Meetings:** Every 2-4 days, the group would gather and participate in Scrum meetings over MS Teams in order to go over the work that we had completed so far and any issues we were having. We would also review eachother work and provide feedback on eachothers work.
+- **Sprints:** The team worked in Sprints, creating and working on a new section of the project each week. 
+- **Sprint Retrospective Meetings:** At the end of each week, we would do a final review of the work that had been completed over the week and anything that hadnt been finished would need to be pushed into the next weeks Sprint. We would also discuss a plan and assign work to each group member to be completed in the following weeks' sprint.
+- **Sprint Backlog:** We used GitHub to plan out our backlog. This allowed us to understand and track what tasks still needed to be models and process the ones that had been completed. 
 
 **Reflection during Ideation**
 While investigating and understanding the system, there were several key features that we felt were missing in order for the system to function.
