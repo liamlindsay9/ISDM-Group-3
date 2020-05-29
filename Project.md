@@ -34,6 +34,7 @@
 **In-bound Customers**
 - How might we improve customers experiences when calling the system?
 - How might we improve call efficiency to decrease the time customers spend on a call.
+
 **Out-bound Customers**
 - How might we call the customer at the right moment when they have time to talk.
 - How might we make the customer feel like they are not being annoyed.
