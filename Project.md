@@ -48,6 +48,7 @@ During the completion of the project, the team needed to create and model a solu
 **Reflection during Ideation**
 While investigating and understanding the system, there were several key features that we felt were missing in order for the system to function.
 - One of the first assumptions we made about the system is that In-bound customers and Out-bound customers would have needed to already have provided some information to the company in order to be matched with the best fit Relationship Manager(RM). For Out-Bound customers, the system gets the users information from a database. We assumed that this mean the customer had already purchased a product in the past or had given an expession of interest including personal information in some regard. For In-Bound customers, we assumed that customers would need to provide some information if it is their first time calling in order to be given a Loyalty Score and be matched with the approapriate RM.
+- For this system, assuming that we may need variety Relationship Manager to follow the customer file. For the inbound call, we assumed that the customers call to the server on the working time of RM beside that if the customers call after or before the working time, we need to give a solution for them to contact later. Also with the outbound call, if the customers are being busy at that time so the RM may need to contact them later. All of this is leading to best customer's experiences. 
 
 ## Workproduct, Models and Descriptions 
 ### Class Diagram
