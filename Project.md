@@ -68,3 +68,13 @@ While investigating and understanding the system, there were several key feature
 <p align="center">
   <img src="Outbound call (1).png" width="60%">
 </p>
+
+## Advantages of Implementing new System
+Implementing the new system will provide many different benefits for the company:
+- The new system taylors the service provided to each customer, allowing for a more satisfying and quicker customer experience.
+- Relationship Manager are able to make sales at an increased rate as customers are better understood and are provided with options they are more likely to take rather than the Relationship Manager sifting through every option.
+- The Company will be able to judge what holiday packages are popular based upon how many company are recommended the holiday packages.
+- The effectiveness of specific Relationship Manages will be tracked based on their number of recommended customers.
+- Wait times will be shorter as customer and relationship manager interactions has been shortened, allowing for more customers to be served during busier times.
+- The system will be able to track valuable and favourable customers through their loyalty score.
+
