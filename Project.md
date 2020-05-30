@@ -38,6 +38,10 @@
 **Out-bound Customers**
 - How might we call the customer at the right moment when they have time to talk.
 - How might we make the customer feel like they are not being annoyed.
+
+**Relationship Managers**
+- How might we make every call as effective as possible?
+- How might we increase the likelihood of generating sales during each call
 ### Implementation of Agile Methodology; Scrum
 During the completion of the project, the team needed to create and model a solution quickly so implementing an Agile methodology was crucial. Our team used the Scrum technique in order to organise ourselves and create deliverables in an iterative manner. Scrum allowed us to be flexible and adjust for any work that hadn't been completed and plan out the how and when sections of the work would be completed.
 - **Scrum Meetings:** Every 2-4 days, the group would gather and participate in Scrum meetings over MS Teams in order to go over the work that we had completed so far and any issues we were having. We would also review each other's work and provide feedback on eachothers work.
