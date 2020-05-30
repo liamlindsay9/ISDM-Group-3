@@ -77,10 +77,13 @@ While investigating and understanding the system, there were several key feature
 Implementing the new system will provide many different benefits for the company:
 - The new system taylors the service provided to each customer, allowing for a more satisfying and quicker customer experience.
 - Relationship Managers are able to make sales at an increased rate as customers are better understood and are provided with options they are more likely to take rather than the Relationship Manager sifting through every option.
+- Profit that the company made will increase as the sales of the company will increase.
 - The Company will be able to judge what holiday packages are popular based upon how many customers are recommended the holiday packages.
 - The effectiveness of specific Relationship Manages will be tracked based on their number of recommended customers.
 - Wait times will be shorter as customer and relationship manager interactions has been shortened, allowing for more customers to be served during busier times.
 - The system will be able to track valuable and favourable customers through their loyalty score.
+- Company will be able to have a good relationship with existing customers.
+- Company will have a better reputation as the service given to every customer is very effective, hence customers will regard the company as a great company.
 
 ## Company Effects from Failures of the system
 The new system could fail in many different ways leading to detrimental effects on the company.
