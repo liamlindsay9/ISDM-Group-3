@@ -73,6 +73,10 @@ While investigating and understanding the system, there were several key feature
   <img src="Outbound call (1).png" width="60%">
 </p>
 
+### Activity Diagram
+
+-The Activity Diagram is a digram which shows step by step activities done by each actor for achieving something. 
+
 ## Advantages of Implementing new System
 Implementing the new system will provide many different benefits for the company:
 - The new system taylors the service provided to each customer, allowing for a more satisfying and quicker customer experience.
