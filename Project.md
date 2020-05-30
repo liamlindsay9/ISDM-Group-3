@@ -38,12 +38,11 @@
 **Out-bound Customers**
 - How might we call the customer at the right moment when they have time to talk.
 - How might we make the customer feel like they are not being annoyed.
-
-**Relationship Managers**
-- How might we make every call as effective as possible?
-- How might we increase the likelihood of generating sales during each call
 ### Implementation of Agile Methodology; Scrum
 During the completion of the project, the team needed to create and model a solution quickly so implementing an Agile methodology was crucial. Our team used the Scrum technique in order to organise ourselves and create deliverables in an iterative manner. Scrum allowed us to be flexible and adjust for any work that hadn't been completed and plan out the how and when sections of the work would be completed.
+
+-**Product Backlog** Identified the requirements of each group member such as what particular work they contribute to the project
+-**Prioritizing Backlog** The team log any issue and ordered them based on priority , the team idetified the most precedented issues and worked on them first, consequently we worked on the less precedented issues at a latter stage. 
 - **Scrum Meetings:** Every 2-4 days, the group would gather and participate in Scrum meetings over MS Teams in order to go over the work that we had completed so far and any issues we were having. We would also review each other's work and provide feedback on eachothers work.
 - **Sprints:** The team worked in Sprints, creating and working on a new section of the project each week. 
 - **Sprint Retrospective Meetings:** At the end of each week, we would do a final review of the work that had been completed over the week and anything that hadn't been finished would need to be pushed into the next week's Sprint. We would also discuss a plan and assign work to each group member to be completed in the following weeks' sprint.
@@ -73,29 +72,22 @@ While investigating and understanding the system, there were several key feature
   <img src="Outbound call (1).png" width="60%">
 </p>
 
-### Activity Diagram
+### Collaboration Diagram 
 
-- The Activity Diagram is a digram which shows step by step activities done by each actor for achieving something. Each steps and choices are shown in activity diagram, it has a start point and an end point. Activity diagram shows the steps of commencing inbound calls and outbound calls.
-
-<p align="center">
-  <img src="Inbound Activity Diagram.png" width="60%">
-</p>
+- The Collaboration Diagram is utilised to show to how objects interact to achieve the behaviour of a particular use case. Collaboration diagram defines and clarifies the roles of the objects that performs a particular flow of events of a use case. 
 
 <p align="center">
-  <img src="Outbound Activity Diagram.png" width="60%">
-</p>
+   <img src="Collaboration Diagram (1).png" width="60%">
+  </p>
 
 ## Advantages of Implementing new System
 Implementing the new system will provide many different benefits for the company:
 - The new system taylors the service provided to each customer, allowing for a more satisfying and quicker customer experience.
 - Relationship Managers are able to make sales at an increased rate as customers are better understood and are provided with options they are more likely to take rather than the Relationship Manager sifting through every option.
-- Profit that the company made will increase as the sales of the company will increase.
 - The Company will be able to judge what holiday packages are popular based upon how many customers are recommended the holiday packages.
 - The effectiveness of specific Relationship Manages will be tracked based on their number of recommended customers.
 - Wait times will be shorter as customer and relationship manager interactions has been shortened, allowing for more customers to be served during busier times.
 - The system will be able to track valuable and favourable customers through their loyalty score.
-- Company will be able to have a good relationship with existing customers.
-- Company will have a better reputation as the service given to every customer is very effective, hence customers will regard the company as a great company.
 
 ## Company Effects from Failures of the system
 The new system could fail in many different ways leading to detrimental effects on the company.
