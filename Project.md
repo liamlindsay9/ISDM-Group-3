@@ -77,7 +77,7 @@ While investigating and understanding the system, there were several key feature
 - The Collaboration Diagram is utilised to show to how objects interact to achieve the behaviour of a particular use case. Collaboration diagram defines and clarifies the roles of the objects that performs a particular flow of events of a use case. 
 
 <p align="center">
-   <img src="Collaboration Diagram (1).png" width="60%">
+   <img src="Collaboration Diagram.png" width="60%">
   </p>
 
 ## Advantages of Implementing new System
