@@ -33,15 +33,15 @@
 ### HMW Statements 
 **In-bound Customers**
 - How might we improve customers' experiences when calling the system?
-- How might we improve call efficiency to decrease the time customers spend on a call.
+- How might we improve call efficiency to decrease the time customers spend on a call?
 
 **Out-bound Customers**
-- How might we call the customer at the right moment when they have time to talk.
-- How might we make the customer feel like they are not being annoyed.
+- How might we call the customer at the right moment when they have time to talk?
+- How might we make the customer feel like they are not being annoyed?
 
 **Relationship Managers**
 - How might we make every call as effective as possible?
-- How might we increase the likelihood of generating sales during each call.
+- How might we increase the likelihood of generating sales during each call?
 
 ### Implementation of Agile Methodology; Scrum
 During the completion of the project, the team needed to create and model a solution quickly so implementing an Agile methodology was crucial. Our team used the Scrum technique in order to organise ourselves and create deliverables in an iterative manner. Scrum allowed us to be flexible and adjust for any work that hadn't been completed and plan out the how and when sections of the work would be completed.
