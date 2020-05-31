@@ -42,6 +42,7 @@
 During the completion of the project, the team needed to create and model a solution quickly so implementing an Agile methodology was crucial. Our team used the Scrum technique in order to organise ourselves and create deliverables in an iterative manner. Scrum allowed us to be flexible and adjust for any work that hadn't been completed and plan out the how and when sections of the work would be completed.
 
 -**Product Backlog** Identified the requirements of each group member such as what particular work they contribute to the project
+
 -**Prioritizing Backlog** The team log any issue and ordered them based on priority , the team idetified the most precedented issues and worked on them first, consequently we worked on the less precedented issues at a latter stage. 
 - **Scrum Meetings:** Every 2-4 days, the group would gather and participate in Scrum meetings over MS Teams in order to go over the work that we had completed so far and any issues we were having. We would also review each other's work and provide feedback on eachothers work.
 - **Sprints:** The team worked in Sprints, creating and working on a new section of the project each week. 
