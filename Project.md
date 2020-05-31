@@ -91,12 +91,10 @@ While investigating and understanding the system, there were several key feature
 - The Activity Diagram is a digram which shows step by step activities done by each actor for achieving something. Each steps and choices are shown in activity diagram, it has a start point and an end point. Activity diagram shows the steps of commencing inbound calls and outbound calls.
 
 <p align="center">
-  <img src="" width="60%">
   <img src="Inbound Activity Diagram.png" width="60%">
 </p>
 
 <p align="center">
-  <img src="" width="60%">
   <img src="Outbound Activity Diagram.png" width="60%">
 </p>
 
