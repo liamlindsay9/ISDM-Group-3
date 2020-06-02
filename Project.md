@@ -1,5 +1,8 @@
 # ISDM Group 2 Project - Call Management Centre(CMC) System
 
+Liam Lindsay 13560851 || Le Vu Tung 13983313 || Darryl Kumar 13612003 || Richard Kurniady 13015918
+
+
 ## Defining the Problem - Design Thinking Methodologies
 ### Empathy Maps
 - We used Empathy Maps as part of our Design Thinking Process in order to explore and understand how our stakeholders may think and feel towards a new system. This allowed us to understand what boundaries and factors we will have to consider on a personal level when designing the CMC system.
@@ -120,3 +123,7 @@ The new system could fail in many different ways leading to detrimental effects 
 ## GitHub Repository
 Below is a link to the GitHub repository to view the groups progress and contributions:
 https://github.com/liamlindsay9/ISDM-Group-3
+
+## Presentation Link
+Here is the link to our presentation that has been uploaded to Youtube
+https://youtu.be/4qGB60WZpjY
