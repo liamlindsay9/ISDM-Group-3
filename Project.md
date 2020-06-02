@@ -125,6 +125,11 @@ Below is a link to the GitHub repository to view the groups progress and contrib
 
 https://github.com/liamlindsay9/ISDM-Group-3
 
+## Presentation Slides
+Here is the link to our presentation slides that we used:
+
+https://docs.google.com/presentation/d/168pJwj0LkcRx_sKtBIiUFRNMylmZvH7yze1GbEBIYU4/edit?usp=sharing
+
 ## Presentation Link
 Here is the link to our presentation that has been uploaded to Youtube:
 
