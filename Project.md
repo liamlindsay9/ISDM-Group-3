@@ -122,8 +122,10 @@ The new system could fail in many different ways leading to detrimental effects 
 
 ## GitHub Repository
 Below is a link to the GitHub repository to view the groups progress and contributions:
+
 https://github.com/liamlindsay9/ISDM-Group-3
 
 ## Presentation Link
-Here is the link to our presentation that has been uploaded to Youtube
+Here is the link to our presentation that has been uploaded to Youtube:
+
 https://youtu.be/4qGB60WZpjY
